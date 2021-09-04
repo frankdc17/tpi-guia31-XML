@@ -1,0 +1,4 @@
+/* ejemplo2.css   CV15018*/
+pais{background-color:gray;}
+departamento{background-color:green; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}

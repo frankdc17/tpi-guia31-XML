@@ -1,0 +1,12 @@
+/* ejemplo1.css   SUCARNET  */
+fichero {background-color:blue;}
+ficha {background-color:black; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow;font-size:1cm; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+telefono{color:white; display:inline;}
+email{color:yellow;font-size:1cm; display:inline;}
+website{color:white; display:inline;}
+dui{color:yellow;font-size:1cm; display:inline;}
+isss{color:white; display:inline;}
+afp{color:yellow;font-size:1cm; display:none;}

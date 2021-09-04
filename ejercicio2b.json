@@ -1,0 +1,33 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"1,800,000",
+				"altura":"545 MSNM",
+				"codTel":"503",
+				"areaTerr":" 1.653KM2 "
+			},
+			{
+				"@id":"3",
+				"@nombre":"Chalatenango",
+				"fechaFundacion":"14/02/1855",
+				"cabecera":"Chalatenango",
+				"habitantes":"21,102,000",
+				"altura":"545 MSNM",
+				"numMunicipios":"33",
+				"codPostal":"301"
+			}
+		]
+	}
+}

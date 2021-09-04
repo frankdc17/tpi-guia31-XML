@@ -1,0 +1,9 @@
+/* ejemplo1a.css   cv15018  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow; display:inline;} 
+telefono {color:rgb(0, 255, 42); display:inline;}
+email {color:rgb(85, 19, 28); display:inline;}
+website{color:rgb(201, 172, 11); display:inline;}
